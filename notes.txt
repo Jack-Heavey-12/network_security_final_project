@@ -1,4 +1,14 @@
 Final Project Notes
 
-Data URL: https://data.mendeley.com/datasets/72ptz43s9v/1
--Linked from this site with full sources: https://www.sciencedirect.com/science/article/pii/S2352340920313202
+
+%%% SEEMS LIKE THIS DATA DOESN'T HAVE THE ACTUAL URLs, JUST FEATURES? DOWNLOADED ANOTHER ONE
+%Data URL: https://data.mendeley.com/datasets/72ptz43s9v/1
+%%-Linked from this site with full sources: https://www.sciencedirect.com/science/article/pii/S2352340920313202
+
+%Description: final column (is_phishing) - boolean, 1 for phishing, 0 for legitimate.
+%%%
+
+Data URL: https://research.aalto.fi/en/datasets/phishstorm-phishing-legitimate-url-dataset
+
+Description: final column (label) - 1 for phishing, 0 for legitimate
+
