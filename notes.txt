@@ -12,5 +12,8 @@ Data URL: https://research.aalto.fi/en/datasets/phishstorm-phishing-legitimate-u
 
 PhishStorm Paper: https://www.researchgate.net/publication/273169788_PhishStorm_Detecting_Phishing_With_Streaming_Analytics/link/582b2a0108ae102f07207f21/download
 
+Semantic Scanning:
+https://ieeexplore.ieee.org/document/9493252
+
 Description: final column (label) - 1 for phishing, 0 for legitimate
 
