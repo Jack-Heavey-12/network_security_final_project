@@ -10,5 +10,7 @@ Final Project Notes
 
 Data URL: https://research.aalto.fi/en/datasets/phishstorm-phishing-legitimate-url-dataset
 
+PhishStrom Paper: https://www.researchgate.net/publication/273169788_PhishStorm_Detecting_Phishing_With_Streaming_Analytics/link/582b2a0108ae102f07207f21/download
+
 Description: final column (label) - 1 for phishing, 0 for legitimate
 
