@@ -19,8 +19,8 @@ Description: final column (label) - 1 for phishing, 0 for legitimate
 
 
 english-words-py can import a set of all english words.
--From here, we take the first 10 (non-special) characters, check every substring length 4 and above to see if it is a word.
---From here, use WordNet to extract similar words
+-From here, we take a sliding window of 10 (non-special) characters, check every substring length 4 and above to see if it is a word, add these words to the url's set
+--From here, use WordNet to extract similar words,
 --Group urls together that have similar words in the URL - we want googlecash.co and paypalmoney.net grouped together.
 ---This will begin to cluster values, which will allow our classification
 
